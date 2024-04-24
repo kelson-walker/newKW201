@@ -1,0 +1,78 @@
+.header{
+    background-color: #eae7dc;
+    color: red;
+    height: 100px;
+    line-height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding-top:10px ;
+}
+.navbar{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+nav{
+    background-color:#eae7dc;
+    padding: 10px;
+    overflow: hidden;
+}
+nav a{
+    padding: 13px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+nav a:hover{
+    background-color: #eae7dc;
+    color: black;
+}
+.header2{
+    background-color: #eae7dc;
+    padding-top: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom:10px ;
+    text-align: center;
+    
+}
+.mainbody{
+    background-color: #eae7dc;
+    padding-top: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom:10px ;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    border: 12px solid white;
+    position:absolute;
+    right: 15%;
+    top: 33%;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    border: 12px solid white;
+}
+.anchor{
+    background-color: #eae7dc;
+    color: red;
+    height: 100px;
+    line-height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding-top:10px ;
+}
+h2{
+    text-align: center;
+}
+.name{
+    font-weight: bolder;
+}

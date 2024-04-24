@@ -1,0 +1,86 @@
+.navbar{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
+nav{
+    background-color:#eae7dc;
+    padding: 10px;
+    overflow: hidden;
+}
+nav a{
+    padding: 13px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+nav a:hover{
+    background-color:#5085a5;
+    color: white;
+}
+
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+h1 {
+    font-size: 3em;
+    letter-spacing: .6em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+h2 {
+    font-size: 1.5em;
+    padding-bottom: 1em;
+    color: #31708e;
+}
+
+h3 {
+    font-size: 1em;
+    padding-bottom: 1em;
+    color: 0077b6;
+}
+main { 
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin-top: 3em;
+}
+header {
+    text-align: center;
+    margin: auto 2em;
+}
+
+section {
+    margin: auto 1em 4em 2em;
+}
+
+i {
+    margin-right: .5em;
+}
+
+p {
+    margin: .2em auto
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
+
+h1, h2, h3 {
+    font-weight: 100;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+#mainLeft {
+    border-right: 1px solid lightgray;
+}
+h5{
+    font-weight: lighter;
+    margin-top: 0%;
+}
+hr{
+    background-color: lightblue;
+}
